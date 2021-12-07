@@ -1,4 +1,4 @@
-import Calculator from './calculator.js'
+import Calculator from './public/calculator.js'
 
 test('test the addition of two numbers', () => {
     var calculator = new Calculator()
