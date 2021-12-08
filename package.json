@@ -12,6 +12,7 @@
     "@babel/preset-env": "^7.16.0",
     "babel-jest": "^27.3.1",
     "express": "^4.17.1",
-    "iroh": "^0.3.0"
+    "iroh": "^0.3.0",
+    "module_name": "^1.0.0"
   }
 }
